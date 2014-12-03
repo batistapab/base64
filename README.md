@@ -6,7 +6,6 @@ este exemplo é bem útil quando você não quer criar diretórios.
 
 Algumas vantagens:
 <ul>
-    <li>A imagem no banco fica com um tamanho 56Kb;</li>
     <li>Você tiver a possibilidade poderia utilizar um banco só para armazenar estas imagens;</li>
     <li>O carregamento na tela é mais rápido.</li>
 </ul>
