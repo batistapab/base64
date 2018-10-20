@@ -13,6 +13,6 @@ Algumas vantagens:
 Desvantagens:
 
 <ul>
-    <li>Ocupa um espaço no banco;</li>
+    <li>Ocupa um bom espaço no banco;</li>
     <li>Se o banco estiver indisponível não haverá o carregamento da imagem.</li>
 </ul>
