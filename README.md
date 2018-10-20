@@ -6,8 +6,8 @@ este exemplo é bem útil quando você não quer criar diretórios.
 
 Algumas vantagens:
 <ul>
-    <li>Você tiver a possibilidade poderia utilizar um banco só para armazenar estas imagens;</li>
-    <li>O carregamento na tela é mais rápido.</li>
+    <li>Você pode armazenar a string gerada no banco;</li>
+    <li>Não fica limitado em permissões do servidor.</li>
 </ul>
 
 Desvantagens:
