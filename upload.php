@@ -33,6 +33,6 @@ if ($uploadOk == 0) {
 	
 		echo sprintf('<img src="data:image/png;base64,%s" alt="" />',$imagem);
 		//Caso você prefira salvar a imagem como base 64.
-       		echo sprintf('<br /><h1>Imagem convertida em base64 </h1><textarea cols='120' rows='7'>%s</textarea>',$imagem);;
+       		echo sprintf('<br /><h1>Imagem convertida em base64</h1><textarea cols="120" rows="7">%s</textarea>', $imagem);
 }
 ?>
